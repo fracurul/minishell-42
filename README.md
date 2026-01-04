@@ -72,7 +72,7 @@ Esto es una prueba
 
 ## 🙏 Agradecimientos
 
-Gracias especiales a mi compañero **fracurul** por su ayuda, guía y apoyo durante el desarrollo de este proyecto. Su conocimiento y disposición fueron clave para completar esta minishell.
+Gracias a mi compañero Elías **erico-ke** por ayudarme en uno de los proyectos que mas esfuerzo a requerido hasta la fecha.
 
 ---
 
@@ -80,9 +80,4 @@ Gracias especiales a mi compañero **fracurul** por su ayuda, guía y apoyo dura
 
 Este proyecto es de carácter educativo como parte del programa 42. No está destinado a distribución comercial.
 
-```
 
----
-
-¿Quieres que te genere también el `Makefile` básico para el proyecto o prefieres que te ayude con algún otro archivo como `.gitignore` o documentación del código?
-```
