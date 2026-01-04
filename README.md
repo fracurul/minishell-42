@@ -2,6 +2,7 @@
 ## DISCLAIMER
 Como se indica mas adelante este proyecto recrea una Shell Unix, no esta preparada para ser usada en un entorno de trabajo y algunas salidas pueden no ser 100% fieles al comportamiento de bash.
 
+## Introducción
 Este proyecto es parte del currículo de la Escuela 42 (Fundación Telefónica). El objetivo de **minishell** es replicar el comportamiento básico de un shell Unix, permitiendo al estudiante entender cómo funciona la ejecución de comandos, los procesos, la gestión de señales y el parsing de entradas.
 
 ---
